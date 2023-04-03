@@ -39,8 +39,8 @@ sudo vncserver -localhost no -geometry 1920x1080 :1
 <img decoding="async" src="pic1.png" width="320px">  
 <img decoding="async" src="pic2.png" width="500px">  
 2. 连接服务器（如果连接不上则需要检查端口是否放行，以及IP地址与端口号是否正确）  
-<img decoding="async" src="pic4.png" width="750px">  
-<img decoding="async" src="pic3.png" width="500px">  
+<img decoding="async" src="pic3.png" width="750px">  
+<img decoding="async" src="pic4.png" width="500px">  
 <img decoding="async" src="pic5.png" width="800px">  
 至此已经可以连接成功，但是仍然还有问题存在，比如在登录界面输入正确的密码却总是提示密码错误，那么就需要一些额外的操作来解决这个问题。
 
