@@ -61,5 +61,5 @@ sudo vncserver -localhost no -geometry 1920x1080 :1
 
 ## 参考  
 - - -
-1. [Linux服务器安装图形化界面——远程可视化](https://www.cnblogs.com/catblogs/p/13460040.html)
-2. [Ubuntu系的Linux使用vnc报错_ubuntu18.4 xterm不存在_好烦吃不胖的博客-CSDN博客](https://blog.csdn.net/chen462488588/article/details/112237950)  
+1. [Linux服务器安装图形化界面——远程可视化](https://www.cnblogs.com/catblogs/p/13460040.html) （原始内容[存档](https://web.archive.org/web/20240601072629/https://www.cnblogs.com/catblogs/p/13460040.html)于2024-06-01）
+2. [Ubuntu系的Linux使用vnc报错_ubuntu18.4 xterm不存在_好烦吃不胖的博客-CSDN博客](https://blog.csdn.net/chen462488588/article/details/112237950)  (原始内容[存档](https://web.archive.org/web/20211107023521/https://blog.csdn.net/chen462488588/article/details/112237950)于2021-11-07）
